@@ -17,6 +17,7 @@ Tool: Jupyter Notebook
 - 각 군집의 특성을 활용하여 마케팅 방안 제안
 ![image](https://user-images.githubusercontent.com/76192858/212949753-392c3fd0-bc74-43c6-b303-292c641734c5.png)
 
+### 연관 분석, 요인 분석
 - 연관 분석, 요인 분석을 사용하여 구매 유사도가 높은 상품을 파악하여 마케팅 방안 제시
 ![image](https://user-images.githubusercontent.com/76192858/212950832-ff32d344-f5e8-4394-9508-0ddb174dd0b2.png)
 
